@@ -155,7 +155,8 @@ main{
     justify-content: flex-start;
     align-items: center;
     width: 250px;
-    height: 370px;
+    min-height: 250px;
+    max-height: 390px;
     background-color: gray;
     opacity: 0.8;
     box-shadow: 0 0 10px #00000070;
